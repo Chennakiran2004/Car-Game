@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.rectangle {
+    width: 90%;
+    height: 55%;
+    background-color: #82e0aa;
+    /* You can customize the color, size, and other properties as needed */
+    border: 2px solid #2980b9;
+    /* Border color */
+    border-radius: 10px;
+    /* Border radius for rounded corners */
+    margin: 70px;
+    text-align: center;
+    /* Margin to provide space around the box */
+}
+
+.car {
+    margin: 20px;
+}
+
+.sub-container {
+    margin: 20px;
+}
+
+.button {
+    background-color: #1f1d41;
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    width: 70px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+.startButton {
+    margin-left: 12px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.stopButton {
+    margin-right: 12px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.traffic-light {
+    background-color: #1f1d41;
+    width: 100px;
+    height: 200px;
+    border-radius: 40px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.bulb {
+    background-color: #4b5069;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+
+.car-number {
+    font-family: Roboto;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 34px;
+}
+
+.speed {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+
+.create-button {
+    margin-left: 20px;
+}
